@@ -1,0 +1,22 @@
+{
+  "name": "bjrestaurants",
+  "version": "1.0.0",
+  "description": "bjrestaurants DB json mockup",
+  "main": "index.js",
+  "scripts": {
+    "json:server": "json-server --watch db.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/phuongdoan-iOS/bjRestaurants.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/phuongdoan-iOS/bjRestaurants/issues"
+  },
+  "homepage": "https://github.com/phuongdoan-iOS/bjRestaurants#readme",
+  "dependencies": {
+    "json-server": "^0.16.3"
+  }
+}
